@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Samachar</string>
+    <string name="title_activity_description">Description</string>
+    <string name="title_activity_card_view">CardView</string>
+    <string name="title_activity_states">States</string>
+    <string name="title_activity_news_display">NewsDisplay</string>
+    <string name="title_activity_search_view">SearchView</string>
+    <string name="title_activity_favorite_news">FavoriteNews</string>
+</resources>
